@@ -1,2 +1,2 @@
-# OpenReport demo repository
-This is where the OpenReport's demo will create issues.
+# Bugspot demo repository
+This is where the demo will create issues.
