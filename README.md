@@ -1,2 +1,2 @@
 # Bugspot demo repository
-This is where the demo will create issues.
+This is where issues from the demo are being created.
